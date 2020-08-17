@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Balakrishna Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Balakrishna Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Balakrishna Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+<br />
+<br />
 
 [gmail]: mailto:balakrishnakumar.v@gmail.com
 [twitter]: https://twitter.com/im_balakrishna
