@@ -21,6 +21,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Yolo-V5 Object Detection on a Custom Dataset](https://medium.com/towards-artificial-intelligence/yolo-v5-object-detection-on-a-custom-dataset-61d478bc08f9)
+- [Argparse and Command-line arguments](https://medium.com/deepscopy/argparse-and-command-line-arguments-813aba95414e)
+- [Step by Step Creation of an EC2 instance in AWS and access it via Putty & WinSCP](https://medium.com/@balakrishnakumar.v/step-by-step-creation-of-an-ec2-instance-in-aws-and-access-it-via-putty-winscp-a6c28f2022be)
+- [Deploy Deep Learning Models in AWS using AWS Lambda + AWS API gateway + AWS Elastic File System](https://medium.com/deepscopy/deployment-of-deep-learning-models-in-aws-using-aws-lambda-aws-api-gateway-aws-elastic-file-a48fdeb2c140)
+- [An Ultimate Post to Git and Github](https://medium.com/deepscopy/an-ultimate-post-to-git-and-github-f447f0be295b)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@balakrishnakumar.v)
+
+---
 ### Languages and Tools:
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
