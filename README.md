@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Balakrishna Kumar - aka [bala-codes][https://github.com/bala-codes/]
+### Hi there 👋 I'm Balakrishna Kumar - aka [bala-codes][Github]
 <!--
 **bala-codes/bala-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/im_balakrishna
 [linkedin]: https://www.linkedin.com/in/balakrishnakumar-v/
 [Medium]: https://medium.com/@balakrishnakumar.v
-
+[Github]: https://github.com/bala-codes/bala-codes/
  ## Thanks for dropping by.
