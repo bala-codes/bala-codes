@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on problems related to social good.
 - 🤔 I’m deeply believe AI can solve the problems faced by the humanity.
 - 💬 Ask me about Machine & Deep Learning and Cloud Computing.
-- ⚡ Fun fact: I am an avid cyclist 🚵 
+- ⚡ Fact: I am an avid cyclist 🚵 
 <!--
 **bala-codes/bala-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
