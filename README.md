@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 ---
 ### Connect with me:
 
-[<img align="left" alt="Balakrishna Kumar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Balakrishna Kumar" width="22px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/gmail.png" />][gmail]
 [<img align="left" alt="Balakrishna Kumar | Twitter" width="22px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/twitter.png" />][twitter]
-[<img align="left" alt="Balakrishna Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Balakrishna Kumar | LinkedIn" width="22px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/linkedin.png" />][linkedin]
 [<img align="left" alt="Balakrishna Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 <br />
 <br />
