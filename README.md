@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Balakrishna Kumar - aka [bala-codes][Github]
+### Hi there <img src="https://github.com/bala-codes/bala-codes/blob/master/imgs/wave.gif" width="30px"> 👋 I'm Balakrishna Kumar - aka [bala-codes][Github]
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
 - 🌱 I’m currently learning how machine learns.
