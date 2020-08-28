@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-### Connect with me:
+## Connect with me
 
 [<img align="left" alt="Balakrishna Kumar" width="27px" height="25px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/gmail.png" />][gmail]
 [<img align="left" alt="Balakrishna Kumar | Twitter" width="27px" height="25px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/twitter.png" />][twitter]
