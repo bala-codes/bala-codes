@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Neural Machine Translation using Seq2Seq Modelling using PyTorch](https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation-using-seq2sequence-modelling-using-pytorch-41c9b84ba350?source=friends_link&sk=2a6af391412bdc18c416bcd635daa884)
 - [Visual Representation of Matrix and Vector Operations and implementations in NumPy, Torch, and TensorFlow](https://medium.com/towards-artificial-intelligence/visual-representation-of-matrix-and-vector-operations-and-implementation-in-numpy-torch-and-tensor-6a94d14913c6)
 - [Create your Mini-Word-Embedding from Scratch using Pytorch](https://medium.com/towards-artificial-intelligence/create-your-own-mini-word-embedding-from-scratch-c7b32bd84f8e)
 - [Yolo-V5 Object Detection on a Custom Dataset](https://medium.com/towards-artificial-intelligence/yolo-v5-object-detection-on-a-custom-dataset-61d478bc08f9)
