@@ -1,5 +1,3 @@
-### Hi there <img src="https://github.com/bala-codes/bala-codes/blob/master/imgs/wave.gif" width="30px"> I'm Balakrishna Kumar - aka [bala-codes][Github]
-
 <h1 align="center">Hi 👋, I'm Balakrishna Kumar</h1>
 <h3 align="center">AI Engineer</h3>
 
@@ -56,10 +54,10 @@ Here are some ideas to get you started:
 ---
 ## Connect with me
 
-[<img align="left" alt="Balakrishna Kumar" width="27px" height="25px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/gmail.png" />][gmail]
-[<img align="left" alt="Balakrishna Kumar | Twitter" width="27px" height="25px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/twitter.png" />][twitter]
-[<img align="left" alt="Balakrishna Kumar | LinkedIn" width="27px" height="25px" src="https://github.com/bala-codes/bala-codes/blob/master/imgs/linkedin.png" />][linkedin]
-[<img align="left" alt="Balakrishna Kumar | Instagram" width="27px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="center" alt="Balakrishna Kumar" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
+[<img align="center" alt="Balakrishna Kumar | Twitter" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="center" alt="Balakrishna Kumar | LinkedIn" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="center" alt="Balakrishna Kumar | Instagram" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
 <br />
 <br />
 
