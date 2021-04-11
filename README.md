@@ -1,9 +1,11 @@
 ### Hi there <img src="https://github.com/bala-codes/bala-codes/blob/master/imgs/wave.gif" width="30px"> I'm Balakrishna Kumar - aka [bala-codes][Github]
 
-- 🔭 I’m currently working as a Machine Learning Engineer.
+<h1 align="center">Hi 👋, I'm Balakrishna Kumar</h1>
+<h3 align="center">AI Engineer</h3>
+
 - 🌱 I’m currently learning how machine learns.
 - 👯 I’m looking to collaborate on problems related to social good.
-- 🤔 I’m deeply believe AI can solve the problems faced by the humanity.
+- 🤔 I deeply believe AI can solve the problems faced by the humanity.
 - 💬 Ask me about Machine & Deep Learning and Cloud Computing.
 - ⚡ Fact: I am an avid cyclist 🚵 
 <!--
@@ -37,8 +39,6 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://medium.com/@balakrishnakumar.v)
 
 ---
-
-## 🔧 Technologies & Tools
 
 <p align="center">
   <img src="./imgs/aws.svg" alt="aws" width="40" height="40"/> 
