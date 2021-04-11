@@ -22,7 +22,7 @@
 
 ➡️ [more blog posts...](https://medium.com/@balakrishnakumar.v)
 
----
+<br/>
 
 <p align="center">
   <img src="./imgs/aws.svg" alt="aws" width="40" height="40"/> 
@@ -33,10 +33,9 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</p> 
+</p>
 
-----
-
+<br/>
 <p align="center">
   <a href="mailto:balakrishnakumar.v@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
