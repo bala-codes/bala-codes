@@ -28,8 +28,7 @@
   <img src="./imgs/aws.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="./imgs/docker.svg" alt="docker" width="40" height="40"/> 
-  <img src="./imgs/typescript.svg" alt="typescript" width="40" height="40"/>
-  <img src="./imgs/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
