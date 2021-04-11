@@ -7,7 +7,6 @@
 - 💬 Ask me about Machine & Deep Learning and Cloud Computing.
 - ⚡ Fact: I am an avid cyclist 🚵 
 
----
 
 ### 📕 Latest Blog Posts
 
