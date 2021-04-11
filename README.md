@@ -6,20 +6,6 @@
 - 🤔 I deeply believe AI can solve the problems faced by the humanity.
 - 💬 Ask me about Machine & Deep Learning and Cloud Computing.
 - ⚡ Fact: I am an avid cyclist 🚵 
-<!--
-**bala-codes/bala-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
@@ -49,20 +35,16 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p> 
-<br />
 
----
 ## Connect with me
 
-[<img align="center" alt="Balakrishna Kumar" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
-[<img align="center" alt="Balakrishna Kumar | Twitter" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
-[<img align="center" alt="Balakrishna Kumar | LinkedIn" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="center" alt="Balakrishna Kumar | Instagram" width="27px" height="25px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][Medium]
-<br />
-<br />
-
-[gmail]: mailto:balakrishnakumar.v@gmail.com
-[twitter]: https://twitter.com/im_balakrishna
-[linkedin]: https://www.linkedin.com/in/balakrishnakumar-v/
-[Medium]: https://medium.com/@balakrishnakumar.v
-[Github]: https://github.com/bala-codes/bala-codes/
+<p align="center">
+  <a href="mailto:balakrishnakumar.v@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
+  <a href="https://twitter.com/im_balakrishna">
+  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" href="https://twitter.com/im_balakrishna" alt="twitter" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/balakrishnakumar-v/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://medium.com/@balakrishnakumar.v">
+  <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" width="40" height="40"/></a>
+</p> 
