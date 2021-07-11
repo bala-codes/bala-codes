@@ -17,6 +17,10 @@
 - [Yolo-V5 Object Detection on a Custom Dataset](https://medium.com/towards-artificial-intelligence/yolo-v5-object-detection-on-a-custom-dataset-61d478bc08f9)
 - [Deploy Deep Learning Models in AWS using AWS Lambda + AWS API gateway + AWS Elastic File System](https://medium.com/deepscopy/deployment-of-deep-learning-models-in-aws-using-aws-lambda-aws-api-gateway-aws-elastic-file-a48fdeb2c140)
 - [An Ultimate Post to Git and Github](https://medium.com/deepscopy/an-ultimate-post-to-git-and-github-f447f0be295b)
+- [A Primer on Node.js](https://pub.towardsai.net/a-primer-on-node-js-ff518b78d330)
+- [CRUD (Create, Read, Update, Delete) Operations on NoSQL Database (MongoDB) Using Node.js](https://towardsdatascience.com/crud-create-read-update-delete-operations-on-nosql-database-mongodb-using-node-js-3979573b9b24)
+- [How to Hide/Encrypt/Obfuscate any Python Program](https://towardsdatascience.com/how-to-hide-encrypt-obfuscate-any-python-program-51beea81571f)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@balakrishnakumar.v)
